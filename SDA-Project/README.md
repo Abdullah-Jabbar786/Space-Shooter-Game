@@ -1,22 +1,29 @@
-# Space Shooter Game – Software Design & Analysis (SDA)
+# 📋 Space Shooter Game – Software Design & Analysis (SDA)
 
 This folder contains the Software Design and Analysis (SDA) documentation for the **Space Shooter Game** project developed using **C++** and **Raylib**.
 
-The documentation was prepared as part of the Semester 4 SDA course and includes various software engineering and system design artifacts used during the project development process.
+## 📁 Contents
 
-## Contents
-- Activity Diagram
-- Use Case Diagram
-- Sequence Diagram
-- Class Diagram
-- 4+1 View Model
+| Document | Purpose |
+|----------|---------|
+| **Class Diagram** | System architecture and class relationships |
+| **Use Case Diagram** | User interactions and system functionality |
+| **Sequence Diagram** | Object interactions and message flows |
+| **Activity Diagram** | Process workflows and control flows |
+| **4+1 View Model** | Multi-perspective architectural documentation |
 
-## Technologies Used
-- C++
-- Raylib
-- Object-Oriented Programming (OOP)
+## 🛠️ Technologies
 
-## Purpose
-The purpose of this documentation is to demonstrate the analysis, design decisions, architecture, and workflow of the Space Shooter Game from a software engineering perspective.
+- **Language:** C++
+- **Graphics:** Raylib
+- **Paradigm:** Object-Oriented Programming (OOP)
 
-> Note: This is a documentation folder inside the main Space Shooter Game repository and not a separate project repository.
+## 📐 Diagram Tool
+
+All diagrams were created using **PlantUML** - A powerful tool for creating UML diagrams from simple text descriptions.
+
+## 📚 Purpose
+
+This documentation demonstrates the analysis, design decisions, architecture, and workflow of the Space Shooter Game from a software engineering perspective.
+
+> **Note:** This is a documentation folder inside the main Space Shooter Game repository and not a separate project.

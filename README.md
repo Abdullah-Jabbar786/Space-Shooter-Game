@@ -6,7 +6,7 @@
 
 [![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=flat-square)](https://cplusplus.com/)
 [![Library](https://img.shields.io/badge/Library-Raylib-green?style=flat-square)](https://www.raylib.com/)
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-orange?style=flat-square)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-orange?style=flat-square)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
 
 </div>
@@ -240,7 +240,7 @@ Potential improvements and features for future versions:
 
 ## 📜 License
 
-This project is licensed under the BSD 3-Clause License. See [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -254,14 +254,24 @@ Contributions are welcome! Feel free to:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Authors
 
+### Main Author
 **Abdullah Jabbar**  
-*Object-Oriented Programming Enthusiast | Game Development Learner*
+*Object-Oriented Programming Enthusiast | Game Development Learner*  
+🔗 [GitHub](https://github.com/Abdullah-Jabbar786)
+
+### Co-Authors
+**Muhammad Hammad**  
+*Software Developer | OOP Expert*  
+🔗 [GitHub](https://github.com/MuhammadHammadCS)
+
+**Abdul Majid**  
+*Software Engineer | Game Development Contributor*  
+🔗 [GitHub](https://github.com/AbdulMajid006)
 
 ### Connect
-- 🔗 [GitHub](https://github.com/Abdullah-Jabbar786)
-- 📧 Feel free to reach out for collaboration!
+- 📧 Feel free to reach out for collaboration and feedback!
 
 ---
 
